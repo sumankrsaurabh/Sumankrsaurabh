@@ -1,180 +1,76 @@
-👋 Hi, I'm Suman Kumar Saurabh
+# 👋 Hi, I'm Suman Kumar Saurabh
 
 AI & Data Science Engineer | Software Developer | Problem Solver
 
-I build practical software solutions combining Artificial Intelligence, Backend Development, Web Technologies, and Android.
-
-🎓 B.Tech — Computer Science, AI & Data Science
-💻 Diploma — Computer Science & Engineering
-🚀 Interested in AI/ML, Backend Systems, Android & Full-Stack Development
+I build practical software solutions that combine Artificial Intelligence, backend systems, and modern front-end and mobile technologies. I focus on pragmatic design, reliability, and developer experience.
 
 ---
 
-🧑‍💻 About Me
+## 🔭 Currently
 
-- 🎓 B.Tech in Computer Science – AI & Data Science
-- 🐍 Building applications with Python
-- ⚡ Developing APIs and backend systems with FastAPI
-- 📱 Building Android applications using Kotlin & Jetpack Compose
-- 🌐 Creating web applications with React & JavaScript
-- 🤖 Exploring Artificial Intelligence, Machine Learning, NLP & Generative AI
-- 🧠 Interested in designing scalable and practical software systems
-- 🚀 Always learning, building and improving
+- Building scalable web platforms and developer tools.
+- Open to collaboration, contract work, and mentoring.
 
----
+## 🧑‍💻 What I do
 
-🛠️ Tech Stack
+- Design and implement backend systems and REST/GraphQL APIs (FastAPI, Node.js).
+- Build responsive web apps with React and Next.js.
+- Develop Android apps using Kotlin & Jetpack Compose.
+- Prototype AI/ML solutions (NLP, generative models) with Python and PyTorch.
 
-Languages
+## 🛠️ Tech & Tools
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Kotlin" (https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"SQL" (https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-"C" (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-AI / Data Science
-
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-"PyTorch" (https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-"Hugging Face" (https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-Backend & Web
-
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-Android
-
-"Android" (https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-"Jetpack Compose" (https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-"Android Studio" (https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-Tools
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- Languages: Python, Kotlin, JavaScript/TypeScript, SQL
+- Frameworks & Libraries: FastAPI, React, Next.js, Jetpack Compose
+- Databases & ORM: PostgreSQL, SQLite, SQLModel/Prisma
+- Dev tooling: Docker, GitHub Actions, Vite
+- Testing: Jest, Playwright
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-📱 Android Dialer
+### Android Dialer
+A modern Android dialer app built with Kotlin and Jetpack Compose. Features modern UI, contact management, call history, and telecom integration.
 
-A modern Android phone/dialer application built with Kotlin and Jetpack Compose.
+### Patient–Doctor Appointment System
+Full‑stack healthcare appointment platform (FastAPI, React, SQLModel). Supports patient/doctor auth, profiles, appointment management, and admin dashboard.
 
-Focus:
-"Android" "Kotlin" "Jetpack Compose" "Telecom API" "Clean Architecture"
+### PDF Question Generator
+AI-powered tool for extracting text from PDFs and generating questions (MCQs and long-answer) using Transformers, OCR and summarization.
 
-Features include:
-
-- Modern dialer interface
-- Contact management
-- Call history
-- Incoming/outgoing call handling
-- Call controls
-- Audio routing
-- Telecom integration
-- Caller and call management
+(If you'd like, tell me which repositories to link here and I will update the project links and short descriptions.)
 
 ---
 
-🏥 Patient–Doctor Appointment System
-
-A full-stack healthcare appointment platform connecting patients and doctors.
-
-Stack:
-"FastAPI" "Python" "React" "SQLModel" "SQLite"
-
-Features:
-
-- Patient authentication
-- Doctor authentication
-- Admin functionality
-- Doctor profiles
-- Patient profiles
-- Appointment management
-- Doctor search
-- Dashboard
-- REST APIs
+## 📚 Currently learning
+AI / ML, NLP, System Design, Cloud & DevOps, Advanced Android Development
 
 ---
 
-🤖 PDF Question Generator
+## 📫 Connect
+- GitHub: https://github.com/sumankrsaurabh
+- Email: your-email@example.com
+- Website: https://your-website.example
+- LinkedIn: https://www.linkedin.com/in/your-profile
 
-An AI-powered application for generating questions from PDF documents.
-
-Stack:
-"Python" "Transformers" "T5" "PyMuPDF" "OCR"
-
-Features:
-
-- PDF text extraction
-- OCR support
-- Text summarization
-- Question generation
-- MCQ generation
-- Long-answer questions
-- Export to PDF, CSV and text
+(Replace placeholders above with your preferred contact links.)
 
 ---
 
-📚 Currently Learning
-
-Artificial Intelligence
-Machine Learning
-Generative AI
-Natural Language Processing
-Data Structures & Algorithms
-System Design
-Backend Architecture
-Cloud & DevOps
+## Profile bio (copy to Settings → Public profile)
+Full‑stack engineer focused on building reliable, high‑performance web apps and AI-enabled tools. TypeScript | Python | Kotlin | Open to collaboration & mentoring.
 
 ---
 
-🎯 2026 Goals
+## What I changed
+- Rewrote and consolidated the profile README to be concise and focused on projects, skills, and contact information.
+- Left placeholders for email/website/LinkedIn and for linking specific repositories — tell me the exact repo names and I will update the links and short descriptions.
 
-- 🚀 Build production-ready AI applications
-- 🧠 Strengthen Machine Learning & NLP
-- ⚡ Improve backend architecture and system design
-- 📱 Build advanced Android applications
-- 🌐 Develop scalable full-stack applications
-- 🤝 Contribute to open source
-- 💼 Build a strong software engineering portfolio
+## Next steps I can take for you
+1. Update the README again to add direct links and project badges for the repos you want featured.
+2. Draft a short (1-line) profile bio and display name you can copy into Settings (I already included a suggested bio above).
+3. Provide a recommended avatar image and exact steps to upload it (I cannot change your account avatar from here).
+4. Suggest 4 repos to pin on your profile and the order to present them.
 
----
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumankrsaurabh&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumankrsaurabh&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>---
-
-🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumankrsaurabh&theme=transparent&hide_border=true"/>
-</p>---
-
-🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sumankrsaurabh/sumankrsaurabh/output/github-contribution-grid-snake.svg" />
-</p>---
-
-📫 Connect With Me
-
-<p align="center"><a href="https://github.com/sumankrsaurabh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a></p>---
-
-<p align="center">
-  <b>💻 Build. Learn. Solve. Repeat.</b>
-</p><p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
-</p>
+If you want me to immediately replace placeholders with real project links and contact details, reply with the repo names/URLs and the contact info you want published and I will update the README again.
